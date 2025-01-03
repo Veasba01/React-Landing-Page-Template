@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Taller Pintura y Carrocería Fonseca",
+    "paragraph": "Expertos en la reparación y embellecimiento de vehículos. Ofrecemos servicios de hojalatería, pintura automotriz de alta calidad y restauración completa, asegurando un acabado impecable y profesional."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "En Carrocería y Pintura Fonseca nos especializamos en la reparación y restauración de vehículos, ofreciendo un servicio profesional y de alta calidad. Nuestro equipo capacitado utiliza materiales de primera para asegurar un acabado impecable, devolviendo a tu automóvil su apariencia original y garantizando la satisfacción total de nuestros clientes.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Experiencia y profesionalismo",
+      "Materiales de alta calidad",
+      "Técnicas modernas de reparación",
+      "Atención al detalle"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Satisfacción garantizada",
+      "Compromiso con la excelencia",
+      "Resultados duraderos",
+      "Servicio personalizado"
     ]
   },
   "Gallery": [
@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-car",
+      "name": "Reparación de Carrocería",
+      "text": "Servicio especializado en reparación de daños estructurales y estéticos en la carrocería de tu vehículo."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-paint-brush",
+      "name": "Pintura Automotriz",
+      "text": "Aplicación de pintura automotriz de alta calidad con una amplia gama de colores para devolverle a tu vehículo su brillo original."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-info",
+      "name": "Todas las Aseguradoras",
+      "text": "Contamos con convenios con todas las aseguradoras del país para facilitar la reparación de tu vehículo sin complicaciones."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-times-circle",
+      "name": "Reparación de Accidentes",
+      "text": "Recuperación de vehículos con daños por colisión, asegurando una restauración completa y segura."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check-circle",
+      "name": "Inspección de Calidad",
+      "text": "Cada servicio realizado pasa por una rigurosa inspección de calidad para garantizar la satisfacción total del cliente."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-exclamation-triangle",
+      "name": "Mantenimiento Preventivo",
+      "text": "Servicios de mantenimiento preventivo para prolongar la vida útil de tu vehículo y mantenerlo en óptimas condiciones."
     }
   ],
   "Testimonials": [
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Atención Personalizada",
+      "text": "Brindamos un servicio cercano y personalizado, enfocado en satisfacer las necesidades específicas de cada cliente."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Garantía de Calidad",
+      "text": "Nuestro trabajo está respaldado por una garantía que asegura la calidad de los materiales y técnicas utilizadas."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Equipo Profesional",
+      "text": "Contamos con un equipo altamente capacitado y en constante formación para ofrecer el mejor servicio."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Tecnología Avanzada",
+      "text": "Utilizamos herramientas y equipos de última generación para garantizar resultados precisos y de alta calidad."
     }
   ]
 }
